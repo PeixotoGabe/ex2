@@ -1,1 +1,1 @@
-Cósigo simples de transcrição automática de áudio para texto
+Código simples de transcrição automática de áudio para texto
